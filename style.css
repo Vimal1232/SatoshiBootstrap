@@ -1,0 +1,55 @@
+.background {
+  background: linear-gradient(
+    146deg,
+    rgba(92, 96, 252, 1) 0%,
+    rgba(137, 87, 255, 1) 50%,
+    rgba(255, 187, 0, 1) 100%
+  );
+}
+
+.color_override_hover:hover {
+  background-color: #212529 !important;
+  color: white !important;
+}
+
+.color_override_gg:hover {
+  background-color: #343a40 !important;
+  color: white !important;
+}
+
+.bg_override {
+  background-color: #6f42c1 !important;
+}
+.bg_override_hover:hover {
+  background: #6f42c1 !important;
+  color: white !important;
+}
+
+.text_override {
+  color: #6f42c1;
+}
+.gg_override {
+  color: #0c8 !important;
+}
+
+.orange_override {
+  background-color: #ff8c00;
+}
+
+.text_color_override {
+  color: #ff8c00;
+}
+
+.bg_gradient {
+  background: linear-gradient(
+    135deg,
+    rgba(71, 85, 105, 1) 0%,
+    rgba(0, 0, 0, 1) 50%,
+    rgba(71, 85, 105, 1) 100%
+  );
+}
+
+.shadow_override {
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+
+}
